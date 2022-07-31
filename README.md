@@ -7,7 +7,7 @@ Users equip themselves with NFTs in the form of Sneakers. By walking, jogging, o
 
 With Game-Fi, OgreCoin aims to nudge millions toward a healthier lifestyle, combat climate change and connect the public to Web 3.0, all while simultaneously hinging on it’s Social-Fi aspect to build a long-lasting platform fostering user generated Web 3.0 content.
 
-:::note
+::: note
 Note: OgreCoin is currently under Public Beta Phase, so contents in the Whitepaper could be changed in the future.
 :::
 
