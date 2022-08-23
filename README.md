@@ -28,3 +28,26 @@ With Game-Fi, OgreCoin aims to nudge millions toward a healthier lifestyle, comb
 * Reddit : https://www.reddit.com/r/ogrecoin
 * Discord : https://discord.com/invite/6GhGsFAcvM
 * GitHub : https://github.com/coinmetaverse
+
+### Smart Contract Information
+
+* OgreCoin Token contract
+https://bscscan.com/token/0x074F67Df93525291a1c8F3C13dFed964660C9261
+
+* OgreCoin Token Presale contract
+https://bscscan.com/address/0xe25a3ae0a2fDd12f5B623b665ccfa1C57881C017
+
+* OgreCoin Token AirDrop contract
+https://bscscan.com/address/0xC1afBd1C025253707b51537851E140A0De42C3bc
+
+* OgreCoin Token Staking contract
+https://bscscan.com/address/0xf3AFf200a704E609560df8BC53a983F2A021bb58
+
+* OgreCoin Token Marketing contract
+https://bscscan.com/address/0xc8Db16C85723703B58798138FBf2776a46aE77F2
+
+* OgreCoin Token Team contract
+https://bscscan.com/address/0x35929B9A5c5b8890dc4d0fF2e5b5830e1b38ADf6
+
+* OgreCoin Token Advisors contract
+https://bscscan.com/address/0x49D49b882F7Ce0Fa8354854a2dB99A402511b0BC
